@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é Rafael Vitor, sou Bacharel em Direito e estudante de Análise e Desenvolvimento de Sistemas. 
+  Meu nome é <b>Rafael Vitor</b>, sou Bacharel em Direito e estudante de Análise e Desenvolvimento de Sistemas. 
 
-  Desenvolvedor back-end em construção.
+  Desenvolvedor back-end em construção. :muscle:
 
   Estudante em tempo integral, aberto à propostas de emprego. / Only studying, open to work.
 
