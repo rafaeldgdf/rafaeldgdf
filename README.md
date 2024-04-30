@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <b>**C, Python, JavaScript e Java.**</b>
+  :computer: Linguagens: <b>**C, Python, JavaScript e Java.**</b>
 </p>
 
 
