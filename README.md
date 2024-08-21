@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  :computer: Linguagens: <b>**C, Python, JavaScript e Java.**</b>
+  :computer: Linguagens: <b>**Java, Python e JavaScript.**</b>
 </p>
 
 
