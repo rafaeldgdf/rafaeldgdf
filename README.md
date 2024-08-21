@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é <b>Rafael Vitor</b>, sou Bacharel em Direito e estudante de Análise e Desenvolvimento de Sistemas. 
+  Meu nome é <b>Rafael Vitor</b>, estudante de Análise e Desenvolvimento de Sistemas e pós-graduação em Direito Digital. 
 
   Desenvolvedor back-end em construção. :muscle:
 
