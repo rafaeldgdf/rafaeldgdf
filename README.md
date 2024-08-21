@@ -22,7 +22,7 @@ Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Outlook">
+  <a href="#" title="Email">
   <img src="https://img.shields.io/badge/Outlook-4169e1" alt="https://criarmeulink.com.br/u/1714503517"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="www.linkedin.com/in/rafaelvitor2"/></a>
